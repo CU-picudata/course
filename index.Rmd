@@ -5,3 +5,11 @@ title: "CU-PICU Data Management Course"
 - __Instructor:__ Tell Bennett
 
 - __Questions:__ Open an issue at https://github.com/CU-picudata/course
+
+- __Objectives:__ Following this course, you will be able to:
+
+     - understand the basics of data provenance and reproducibility
+     - load a simple dataset (.csv format) into R
+     - explore a simple dataset using R
+     - have a more informed conversation with an analyst about your own project
+     - engage in self-directed ongoing learning about how to manage and analyze data

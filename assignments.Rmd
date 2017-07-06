@@ -4,10 +4,24 @@ title: "Assignments"
 
 ### Week 1 (complete prior to July 11 meeting)
 
+#### Register for Github and DataCamp accounts
+
+- send userid's to Tell by email
+
+#### Complete Data Camp course
+
+
+
+### Week 2
+
 #### Reading: Just use REDCap [here](http://www.ucdenver.edu/research/CCTSI/programs-services/informatics/Documents/Managing-Research-Data.pdf)
 
 - it's free
 - it's secure and backed up
 - metadata are built in
-- many data management topics are covered [here](http://www.ucdenver.edu/research/CCTSI/programs-services/informatics/Pages/Informatics-Seminar-Learning-Tools-Archive.aspx)
+
+#### Extra Reading/videos: many data management topics are covered [here](http://www.ucdenver.edu/research/CCTSI/programs-services/informatics/Pages/Informatics-Seminar-Learning-Tools-Archive.aspx)
+
+
+<br>
 

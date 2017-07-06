@@ -1,0 +1,32 @@
+---
+title: "Syllabus"
+---
+
+### Week 1 (complete HW prior to July 11 meeting)
+
+#### General Principles of Data Management (using R)
+
+- Working with R and RStudio
+- Reproducibility: scripts are your friends
+- Reading data into R using `readr`
+- Getting help: Google! The answer is likely to be immediately available.
+
+### Week 2 (complete HW prior to July XX meeting)
+
+#### Slicing and Dicing Data, Summary Statistics, Data Backup, File Structure, Intro to Data Visualization
+
+- File structure
+- `dplyr`! You'll love it
+- Where are your data backed up? (just use REDCap and stop worrying about it)
+
+
+### Week 3 (complete HW prior to July XX meeting)
+
+#### Documentation, Intro to Data Visualization
+
+- Write notes to your future self
+- How best to visualize your data?
+
+
+
+
