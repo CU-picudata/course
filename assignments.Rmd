@@ -2,4 +2,11 @@
 title: "Assignments"
 ---
 
-Assignments here
+## Week 1 (complete prior to July 11 meeting)
+
+### [Reading: Use REDCap](http://www.ucdenver.edu/research/CCTSI/programs-services/informatics/Documents/Managing-Research-Data.pdf)
+
+- it's free
+- it's secure and backed up
+- metadata are built in
+
