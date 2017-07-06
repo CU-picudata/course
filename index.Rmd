@@ -4,6 +4,8 @@ title: "CU-PICU Data Management Course"
 
 - __Instructor:__ Tell Bennett
 
+- __Website:__ https://cu-picudata.github.io/course
+
 - __Questions:__ Open an issue at https://github.com/CU-picudata/course
 
 - __Objectives:__ Following this course, you will be able to:
@@ -13,3 +15,15 @@ title: "CU-PICU Data Management Course"
      - explore a simple dataset using R
      - have a more informed conversation with an analyst about your own project
      - engage in self-directed ongoing learning about how to manage and analyze data
+     
+     
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+Many thanks to Jenny Bryan, Jeff Leek, Lucy D'Agostino McGowan, Nick Strayer, and
+[Data Camp](https://www.datacamp.com/) for the valuable teaching materials they have made freely available.
