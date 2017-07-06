@@ -1,9 +1,13 @@
 name: "CU-PICU Data Management Course"
 output_dir: "."
 navbar:
-  title: "CU Data Management"
+  title: "CU PICU Data Management"
   left:
     - text: "Home"
       href: index.html
     - text: "Assignments"
-      href: about.html
+      href: assignments.html
+output:
+  html_document:
+    theme: flatly
+    css: style.css
