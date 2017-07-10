@@ -6,10 +6,11 @@ title: "Syllabus"
 
 #### General Principles of Data Management (using R)
 
+- Motivation: scientific integrity of your data
 - Working with R and RStudio
-- Reproducibility: scripts are your friends
 - Reading data into R using `readr`
 - Getting help: Google! The answer is likely to be immediately available.
+
 
 ### Week 2 (complete HW prior to July XX meeting)
 
@@ -17,13 +18,17 @@ title: "Syllabus"
 
 - `dplyr`! You'll love it
 - File structure
-- Where are your data backed up? (just use REDCap and stop worrying about it)
+- It's midnight. Do you know where data are? (just use REDCap and stop worrying about it)
+     - it's free
+     - it's secure and backed up
+     - metadata are built in
 
 
 ### Week 3 (complete HW prior to July XX meeting)
 
 #### Documentation, Intro to Data Visualization
 
+- Reproducibility: scripts are your friends
 - Write notes to your future self
 - How best to visualize your data?
 

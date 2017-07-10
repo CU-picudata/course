@@ -8,17 +8,21 @@ title: "Assignments"
 
 - send userid's to Tell by email
 
-#### Complete Data Camp course
+#### Complete Data Camp intro course
+
+- "Data Management for Critical Care Research" course in Data Camp
+     - "Orientation" assignment = "Working with the RStudio IDE"
+- you should have received an invitation
+
+#### Reading: Managing Research Data [here](http://www.ucdenver.edu/research/CCTSI/programs-services/informatics/Documents/Managing-Research-Data.pdf)
 
 
 
 ### Week 2
 
-#### Reading: Just use REDCap [here](http://www.ucdenver.edu/research/CCTSI/programs-services/informatics/Documents/Managing-Research-Data.pdf)
+<br>
 
-- it's free
-- it's secure and backed up
-- metadata are built in
+
 
 #### Extra Reading/videos: many data management topics are covered [here](http://www.ucdenver.edu/research/CCTSI/programs-services/informatics/Pages/Informatics-Seminar-Learning-Tools-Archive.aspx)
 

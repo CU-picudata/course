@@ -25,5 +25,5 @@ title: "CU-PICU Data Management Course"
 <br>
 
 
-Many thanks to Jenny Bryan, Jeff Leek, Lucy D'Agostino McGowan, Nick Strayer, and
+Many thanks to Jenny Bryan, Jeff Leek, Lucy D'Agostino McGowan, David Robinson, Nick Strayer, and
 [Data Camp](https://www.datacamp.com/) for the valuable teaching materials they have made freely available.
