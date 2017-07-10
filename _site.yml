@@ -9,6 +9,8 @@ navbar:
       href: syllabus.html
     - text: "Assignments"
       href: assignments.html
+    - text: "Getting Help"
+      href: help.html
 output:
   html_document:
     theme: flatly

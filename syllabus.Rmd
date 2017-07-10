@@ -9,7 +9,6 @@ title: "Syllabus"
 - Motivation: scientific integrity of your data
 - Working with R and RStudio
 - Reading data into R using `readr`
-- Getting help: Google! The answer is likely to be immediately available.
 
 
 ### Week 2 (complete HW prior to July XX meeting)
