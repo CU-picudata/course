@@ -12,6 +12,7 @@ title: "Assignments"
 
 - "Data Management for Critical Care Research" course in Data Camp
      - "Orientation" assignment = "Working with the RStudio IDE"
+     
 - you should have received an invitation
 
 #### Reading: Managing Research Data [here](http://www.ucdenver.edu/research/CCTSI/programs-services/informatics/Documents/Managing-Research-Data.pdf)
