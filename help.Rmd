@@ -10,10 +10,10 @@ title: "Getting Help"
 
 ### If Google can't save you: open an issue [here](https://github.com/CU-picudata/course)
 
-- Near top of page, “Issues” tab
+- Near top of page, "Issues"" tab
 - I am doing this (instead of email) so that everyone can benefit from questions and answers. Therefore, if you send me email I will ask you to open (or comment on) an issue instead. 
-- Example issue title: “reading in string variables using readr”
-- Example issue text: “How do I tell readr which variables are strings and which are integers?”
+- Example issue title: "reading in string variables using `readr`"
+- Example issue text: "How do I tell `readr` which variables are strings and which are integers?"
 - Anyone can comment on an issue. Huge bonus points if a classmate (politely) answers your question.
 
 
