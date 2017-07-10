@@ -31,16 +31,17 @@ title: "Assignments"
 
 
 
-#### Optional extra reading/videos: many data management topics are covered [here](http://www.ucdenver.edu/research/CCTSI/programs-services/informatics/Pages/Informatics-Seminar-Learning-Tools-Archive.aspx)
-
-
-
 
 
 ### Week 3 (complete prior to TBD 3rd meeting)
 
 #### Complete "Data Manipulation with R in `dplyr`" mini-course in Data Camp
      - don't sweat the database stuff too much
+     
+     
+     
+#### Optional extra reading/videos: many data management topics are covered [here](http://www.ucdenver.edu/research/CCTSI/programs-services/informatics/Pages/Informatics-Seminar-Learning-Tools-Archive.aspx)
+
 
 
 
