@@ -8,28 +8,30 @@ title: "Syllabus"
 
 - Motivation: scientific integrity of your data
 - Working with R and RStudio
-- Reading data into R using `readr`
+- Reading data into R using `readr` - introduction
 
 
-### Week 2 (complete HW prior to July XX meeting)
+### Week 2 (complete HW prior to July 25 meeting)
 
-#### Slicing and Dicing Data, Summary Statistics, File Structure, Data Backup
+#### Data Backup, File Structure, Intro to Slicing and Dicing Data, 
 
-- `dplyr`! You'll love it
-- File structure
 - It's midnight. Do you know where data are? (just use REDCap and stop worrying about it)
      - it's free
      - it's secure and backed up
      - metadata are built in
+- Motivation: .csv is a near-universal data format. 
+     - export your data from REDCap as .csv
+- File structure (RStudio projects)
+- `dplyr`! You'll love it - introduction
 
+### Week 3 (complete HW prior to TBD 3rd meeting)
 
-### Week 3 (complete HW prior to July XX meeting)
+#### Slicing and Dicing Data, Documentation, Summary Statistics, Intro to Data Visualization
 
-#### Documentation, Intro to Data Visualization
-
+- more `dplyr`
 - Reproducibility: scripts are your friends
 - Write notes to your future self
-- How best to visualize your data?
+- How best to summarize and visualize your data?
 
 
 
