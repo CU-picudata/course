@@ -13,14 +13,14 @@ title: "Syllabus"
 
 ### Week 2 (complete HW prior to July 25 meeting)
 
-#### Data Backup, File Structure, Intro to Slicing and Dicing Data, 
+#### Data Backup, File Structure, Intro to Slicing and Dicing Data 
 
 - It's midnight. Do you know where data are? (just use REDCap and stop worrying about it)
      - it's free
      - it's secure and backed up
      - metadata are built in
 - Motivation: .csv is a near-universal data format. 
-     - export your data from REDCap as .csv
+     - move your data into and out of REDCap as .csv
 - File structure (RStudio projects)
 - `dplyr`! You'll love it - introduction
 
