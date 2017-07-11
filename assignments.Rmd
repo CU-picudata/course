@@ -27,7 +27,7 @@ title: "Assignments"
 
 - Complete "Reading a .csv file" and "Writing .csv and .tsv files" sections in the "Importing data with `readr`" mini-course in Data Camp
 
-- Import the EEG dataset
+- Download the EEG dataset. Try to import it into R.
 
 
 
