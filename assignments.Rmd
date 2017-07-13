@@ -27,7 +27,10 @@ title: "Assignments"
 
 - Complete "Reading a .csv file" and "Writing .csv and .tsv files" sections in the "Importing data with `readr`" mini-course in Data Camp
 
-- Download the EEG dataset. Try to import it into R.
+- Download the data from the "PECARN Cardiac Arrest" REDCap database as a .csv file
+     - You all have access to the REDCap database
+     - Read the data into R using a function from `readr`
+     - The data dictionary is in the file repository of the REDCap database
 
 
 
