@@ -23,11 +23,14 @@ title: "Assignments"
 
 ### Week 2 (complete prior to July 25 meeting)
 
-#### Complete "Intro to basics" chapter in the "Introduction to R" mini-course in Data Camp
+- Complete "Intro to basics" chapter in the "Introduction to R" mini-course in Data Camp
 
-#### Complete "Reading a .csv file" and "Writing .csv and .tsv files" sections in the "Importing data with `readr`" mini-course in Data Camp
+- Complete "Reading a .csv file" and "Writing .csv and .tsv files" sections in the "Importing data with `readr`" mini-course in Data Camp
 
-#### Import the EEG dataset
+- Download the data from the "PECARN Cardiac Arrest" REDCap database as a .csv file
+     - You all have access to the REDCap database
+     - Read the data into R using a function from `readr`
+     - The data dictionary is in the file repository of the REDCap database
 
 
 
@@ -35,12 +38,8 @@ title: "Assignments"
 
 ### Week 3 (complete prior to TBD 3rd meeting)
 
-#### Complete "Data Manipulation with R in `dplyr`" mini-course in Data Camp
+- Complete "Data Manipulation with R in `dplyr`" mini-course in Data Camp
      - don't sweat the database stuff too much
-     
-     
-     
-#### Optional extra reading/videos: many data management topics are covered [here](http://www.ucdenver.edu/research/CCTSI/programs-services/informatics/Pages/Informatics-Seminar-Learning-Tools-Archive.aspx)
 
 
 
@@ -49,9 +48,10 @@ title: "Assignments"
 
 ### Week 4 (complete prior to TBD 4th meeting)
 
-#### Complete "Exploratory Data Analysis" mini-course in Data Camp
+- Complete "Exploratory Data Analysis" mini-course in Data Camp
 
 
 
 
+#### Optional extra reading/videos: many data management topics are covered [here](http://www.ucdenver.edu/research/CCTSI/programs-services/informatics/Pages/Informatics-Seminar-Learning-Tools-Archive.aspx)
 
