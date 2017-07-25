@@ -15,7 +15,7 @@ title: "Syllabus"
 
 #### Data Backup, File Structure, Intro to Slicing and Dicing Data, 
 
-- It's midnight. Do you know where data are? (just use REDCap and stop worrying about it)
+- It's midnight. Do you know where your data are? (just use REDCap and stop worrying about it)
      - it's free
      - it's secure and backed up
      - metadata are built in
