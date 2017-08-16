@@ -36,7 +36,7 @@ title: "Assignments"
 
 
 
-### Week 3 (complete prior to TBD 3rd meeting)
+### Week 3 (complete prior to August 16 meeting)
 
 - Complete "Data Manipulation with R in `dplyr`" mini-course in Data Camp
      - don't sweat the database stuff too much
