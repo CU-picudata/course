@@ -8,6 +8,13 @@ title: "Getting Help"
 - example: copy the error message into the search bar
 - example: "how to install RStudio on a Mac"
 
+### Git Resources
+
+- [Atlassian Git](https://www.atlassian.com/git)
+- [Happy Git with R](http://happygitwithr.com/)
+- [Hadley Wickham #1](http://r-pkgs.had.co.nz/git.html#commit-best-practices)
+- [Hadley Wickham #2](http://r-pkgs.had.co.nz/git.html#git-rstudio)
+
 ### If Google can't save you: open an issue [here](https://github.com/CU-picudata/course)
 
 - Near top of page, "Issues" tab
