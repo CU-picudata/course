@@ -2,7 +2,7 @@
 title: "Syllabus"
 ---
 
-### Week 1 (complete HW prior to July 11 meeting)
+### Week 1 (complete HW 1 prior)
 
 #### General Principles of Data Management (using R)
 
@@ -11,9 +11,9 @@ title: "Syllabus"
 - Reading data into R using `readr` - introduction
 
 
-### Week 2 (complete HW prior to July 25 meeting)
+### Week 2 (complete HW 2 prior)
 
-#### Data Backup, File Structure, Intro to Slicing and Dicing Data 
+#### Data Backup, File Structure, Intro to Data Transformation
 
 - It's midnight. Do you know where your data are? (just use REDCap and stop worrying about it)
      - it's free
@@ -21,22 +21,28 @@ title: "Syllabus"
      - metadata are built in
 - Motivation: .csv is a near-universal data format. 
      - move your data into and out of REDCap as .csv
-- File structure (RStudio projects)
 - `dplyr`! You'll love it - introduction
 
-### Week 3 (complete HW prior to August 16 meeting)
+### Week 3 (complete HW 3 prior)
 
-#### Slicing and Dicing Data, Documentation, Intro to Summary Statistics and Data Visualization (time permitting)
+#### Data Transformation, Intro to Summary Statistics and Data Visualization
 
-- more `dplyr`
-- Reproducibility: scripts are your friends
-- Write notes to your future self
+- Most of the work in any analysis: data transformation/cleaning
 - How best to summarize and visualize your data?
 
-### Week 4 (complete HW prior to TBD 4th meeting)
+### Week 4 (complete HW 4 prior)
+
+#### How did I do that again? Where the @#$# is that file?
+
+- Reproducibility: scripts are your friends
+- Write notes to your future self
+- File structure (RStudio projects)
+
+### Week 5 (complete HW 4 prior)
 
 #### Summary Statistics, Intro to Data Visualization
 
-- How best to summarize your data?
+- What does your data mean?
 - How best to visualize your data?
+- How best to present your data?
 

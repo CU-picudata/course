@@ -2,16 +2,16 @@
 title: "Assignments"
 ---
 
-### Week 1 (complete prior to July 11 meeting)
+### Week 1
 
-#### Register for Github and DataCamp accounts
+#### Register for Github, DataCamp, and REDCap accounts
 
 - send userid's to Tell by email
 
 #### Complete Data Camp intro course
 
 - "Data Management for Critical Care Research" course in Data Camp
-     - "Orientation" assignment = "Working with the RStudio IDE"
+     - "Orientation" chapter in the "Working with the RStudio IDE (Part 1)" mini-course
      
 - you should have received an invitation
 
@@ -21,7 +21,7 @@ title: "Assignments"
 
 
 
-### Week 2 (complete prior to July 25 meeting)
+### Week 2
 
 - Complete "Intro to basics" chapter in the "Introduction to R" mini-course in Data Camp
 
@@ -36,17 +36,21 @@ title: "Assignments"
 
 
 
-### Week 3 (complete prior to August 16 meeting)
+### Week 3
+
+- Complete "Introduction to the Tidyverse" mini-course in Data Camp
+
+
+
+### Week 4
+
+- Complete the "Projects" section of the "Intro to the RStudio IDE" mini-course in Data Camp
 
 - Complete "Data Manipulation with R in `dplyr`" mini-course in Data Camp
      - don't sweat the database stuff too much
 
 
-
-
-
-
-### Week 4 (complete prior to TBD 4th meeting)
+### Week 5
 
 - Complete "Exploratory Data Analysis" mini-course in Data Camp
 

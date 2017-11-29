@@ -11,6 +11,8 @@ navbar:
       href: assignments.html
     - text: "Getting Help"
       href: help.html
+    - text: "Next Steps"
+      href: more.html
 output:
   html_document:
     theme: flatly

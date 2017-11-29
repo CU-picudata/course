@@ -1,0 +1,24 @@
+---
+title: "Next Steps"
+---
+
+*What to do with your data, not just how to do it*
+
+*This cannot replace formal Biostatistics and Epidemiology courses*
+
+
+### Biostatistics
+
+- [Stanford Statistics in Medicine](https://lagunita.stanford.edu/courses/Medicine/MedStats-SP/SelfPaced/about)
+    - theoretical, with optional applications in R
+
+### Epidemiology
+
+- [UNC Epidemiology](https://www.coursera.org/learn/epidemiology)
+    - mixed reviews but a reasonable introduction
+
+
+
+
+
+
